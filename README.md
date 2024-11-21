@@ -1,6 +1,10 @@
 # Captouch
 I created Captouch to learn how capacitive touch sensors work. It's not very complicated by design as it's just meant to be a technology proof of concept.
 
+## Demo
+
+![Demo](./demo.gif)
+
 ## How capacitive touch sensors work
 
 ### Capacitor overview
